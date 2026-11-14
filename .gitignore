@@ -1,0 +1,13 @@
+node_modules/
+dist/
+# API keys live here and must never be committed
+server/.env
+.env
+*.log
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
